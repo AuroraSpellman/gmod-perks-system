@@ -4,4 +4,4 @@ A customizable perks system for Garry's Mod, built with Lua.
 ![Preview](pics_for_repo/ui1.png)
 ![Preview](pics_for_repo/ui2.png)
 ![Preview](pics_for_repo/ui3.png)
-![Preview](819e872f-c83c-4a27-ab7b-952cf6472d9b_rw_1920.png)
+![Preview](pics_for_repo/819e872f-c83c-4a27-ab7b-952cf6472d9b_rw_1920.png)
